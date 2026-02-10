@@ -7,6 +7,21 @@ https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.7_Windows_64bit.exe
 
 ![alt text](image.png)
 
+# To fix connection timeout:
+    Close Arduino IDE completely. Then proceed with below steps:
+
+    Win + R - opens ms run
+    Type appdata >> press ENTER
+    Press backspace - this will lead to your user root folder (C:\Users\username)
+    Open the .arduinoIDE folder
+    Open the arduino-cli.yaml file and add the parameter at the end:
+    
+    `
+    network:
+            connection_timeout: 1800s 
+    `
+    Save the cofig and try to download the board configs and teh libraries.
+
 
 
 ## Libraries Required:
