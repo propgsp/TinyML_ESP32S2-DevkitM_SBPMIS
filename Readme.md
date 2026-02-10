@@ -22,6 +22,8 @@ https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.7_Windows_64bit.exe
     `
     Save the cofig and try to download the board configs and teh libraries.
 
+    If it still fails to downlaod and throws the error connection timed out then try switch to an better stable network.
+
 
 
 ## Libraries Required:
@@ -48,3 +50,4 @@ https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.7_Windows_64bit.exe
 ## Monitor terminal logs
 
 Arduino IDE>> Tools>> Serial Monitor>> Baud Rate>> 115200
+
