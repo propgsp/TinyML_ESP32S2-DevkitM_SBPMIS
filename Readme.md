@@ -28,3 +28,8 @@ https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.7_Windows_64bit.exe
 
 ![alt text](image-4.png)
 
+
+
+## Monitor terminal logs
+
+Arduino IDE>> Tools>> Serial Monitor>> Baud Rate>> 115200
