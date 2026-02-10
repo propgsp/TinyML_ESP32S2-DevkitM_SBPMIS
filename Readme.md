@@ -1,3 +1,6 @@
+## Steps to Get Started
+
+
 ## Required Softwares: Arduino IDE
 https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.7_Windows_64bit.exe
 
@@ -7,7 +10,7 @@ https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.7_Windows_64bit.exe
 
 ![alt text](image.png)
 
-# To fix connection timeout:
+## To fix connection timeout:
     Close Arduino IDE completely. Then proceed with below steps:
 
     Win + R - opens ms run
