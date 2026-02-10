@@ -48,6 +48,14 @@ https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.7_Windows_64bit.exe
 
 
 ## Monitor terminal logs
+Open Arduino IDE. Then proceed the steps below:
 
-Arduino IDE>> Tools>> Serial Monitor>> Baud Rate>> 115200
+ Tools>> Serial Monitor>> Baud Rate>> 115200
 
+
+
+## Get an example of basic TinyMl scripts init and get started:
+
+Open Arduino IDE. Then proceed the steps below:
+
+  File>> Examples >>TensorFlowLite_ESP32 >>hello_world
