@@ -62,3 +62,7 @@ Open Arduino IDE. Then proceed the steps below:
 Open Arduino IDE. Then proceed the steps below:
 
   File>> Examples >>TensorFlowLite_ESP32 >>hello_world
+
+
+### Docs for ESP32S2-DevkitM-1
+https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s2/esp32-s2-devkitm-1/user_guide.html
